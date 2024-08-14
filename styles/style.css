@@ -8,7 +8,7 @@
     box-sizing: border-box;
     outline: none;
     /* border: none; */
-    font-size: 18px;
+    font-size: 12px;
 
     font-family: "Inter", sans-serif;
 
@@ -24,7 +24,7 @@
 .btn {
     padding: 16px 40px;
     border-radius: 42px;
-    background: rgb(230, 83, 60);
+    background: rgb(234, 73, 49);
     color: white;
     border: none;
 }
